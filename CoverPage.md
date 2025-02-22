@@ -1,7 +1,6 @@
 # CS-499-ePortfolio
 
 
-
 # 💻 **Professional Self-Assessment**
 
 ## 🚀 About Me
@@ -91,7 +90,6 @@ As I progress in my career, I will continue to **enhance my technical skills**, 
 ---
 
 ## 📬 **Let’s Connect!**
-🔗 [GitHub Profile](https://github.com/yourusername)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourname)  
-📧 Email: your.email@example.com  
+🔗 [GitHub Profile](https://github.com/Stir12)  
+📧 Email: Dstirling123@gmail.com 
 
