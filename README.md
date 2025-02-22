@@ -4,7 +4,7 @@
 # 💻 **Professional Self-Assessment**
 
 ## 🚀 About Me
-Completing my coursework in the **Computer Science** program and developing my **ePortfolio** has been an invaluable journey in shaping my **technical skills**, refining my **career goals**, and preparing me for a future in **software development, cybersecurity, and database management**. 
+Hello I am Dylan Stirling, I am an Air force Verteran and Completing my coursework in the **Computer Science** program and developing my **ePortfolio** has been an invaluable journey in shaping my **technical skills**, refining my **career goals**, and preparing me for a future in **software development, cybersecurity, and database management**. 
 
 This portfolio showcases my expertise in:
 - ✅ **Software Development**
