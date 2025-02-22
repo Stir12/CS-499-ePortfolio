@@ -70,6 +70,7 @@ Security has been a **key focus** throughout my studies and aligns with my **car
 
 ## 📁 **Portfolio Overview**
 My **ePortfolio** includes diverse projects that highlight my:
+
 ✅ **Software development expertise**  
 ✅ **Problem-solving abilities**  
 ✅ **Database & API integration**  
